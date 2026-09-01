@@ -1,22 +1,11 @@
-\# Student Developer Profile
+# Student Developer Profile
 
+**Name:** Rodak Tehwodros
 
+**Technology Interest:** Artificial Intelligence
 
-\*\*Name:\*\* Rodak Tehwodros
+**Senior Project Skill Goal:** Full-Stack Web Development
 
-
-
-\*\*Technology Interest:\*\* Artificial Intelligence
-
-
-
-\*\*Senior Project Skill Goal:\*\* Full-Stack Web Development
-
-
-
-\## Development Workflow
-
-
+## Development Workflow
 
 Branch → Code → Commit → Push → Pull Request → Review → Merge
-
